@@ -1,2 +1,3 @@
 port:
   bootadmin: 9000
+  devportal: 9100
